@@ -12,8 +12,6 @@ pinned = false
 
 Es gibt immer Spieler und Fans, die mit einem Entscheid nicht zufrieden sind. Manche behaupten, es sei ein Foul, andere beklagen sich über den Pfiff. Schuldig dafür sind immer die Schiedsrichter. Doch wie gehen diese damit um? Wir begleiten den National League Head-Schiedsrichter Stefan Hürlimann bei einem Match und erfahren mehr über die Herausforderungen, die diese Position mit sich bringt.
 
-
-
 ### Die Ruhe vor dem Sturm
 
 Es ist ein ruhiger Freitagabend, die Sonne verkriecht sich hinter den Bergen und in Bern bricht die Abenddämmerung an. Nicht so ruhig ist es in Langnau, wo in Kürze der EHC-Biel gegen die SCL-Tigers in der Ilfis-Arena antritt. Eine halbe Stunde vor dem Match kommen wir beim Stadion an, wo die Leute voller Vorfreude vor den Eingängen stehen. Vor der Türöffnung feuern die Fans ihre Teams bereits fanatisch an. Im Hintergrund läuft Musik und die Essensstände verkaufen bis zur Türöffnung Würste und Pommes. Meterlange Schlangen stehen vor den Ticket- und Foodcorner. Familien sind in voller Montur bereit, mit aller Kraft ihr Team zu unterstützen. Und ohne Bier kann man als Zuschauer ein Eishockeyspiel nicht richtig geniessen.
@@ -27,8 +25,6 @@ Nun ist es so weit: Die Türen werden geöffnet und wir sind nur noch wenige Min
 Im Stadion herrscht eine hitzige Stimmung. Die Fans singen, reden, trinken und schreien euphorisch durch die Menge. Trotz des gekühlten Stadions kommt man bei dieser Energie leicht ins Schwitzen. Auf einmal dämmern die Lichter des Stadions und epische und motivierende Musik beginnt zu spielen. Das Heimteam wird angesagt und die einzelnen Spieler werden vorgestellt. Sie stimmen das Publikum ein. Die Fans kreischen zusammen mit dem Lautsprecher laut die Namen der Spieler, während eine kleine Ecke voller Fans des gegnerischen Teams schweigend dasitzt. Die Spieler betreten das Eisfeld. Die Schiedsrichter prüfen währenddessen zuletzt die beiden Tore und fahren dann zur Mittellinie für den Spielbeginn.
 
 ![Foto: Ricky Kam](schiris-auf-dem-eis.png "Schiedsrichter versammeln sich auf dem Eis")
-
-
 
 ### Anpfiff!
 
@@ -49,8 +45,6 @@ Die Linesmen kontrollieren, ob die Tore richtig angebracht sind und ob die Torne
 Im zweiten Drittel dominieren die Bieler die Langnauer. Am eindrucksvollsten war das fünfte Tor von Biel, da es nur neun Sekunden nach dem vierten geschah.
 Die Bieler gewinnen das zweite Drittel 4:0 und führen die Partie nun 5:1. Doch noch ist nichts verloren, denn es wird noch ein Drittel gespielt und das Resultat kann sich innerhalb eines Drittels im Handumdrehen ändern.
 
-
-
 ### Snacks und Erholung
 
 In der zweiten Pause machen wir uns auf den Weg, die Räumlichkeiten der Ilfis-Arena zu besichtigen. Vieles ist abgesperrt, da das Spiel im Gange ist. Zwei Orte können wir trotzdem besuchen.
@@ -59,8 +53,6 @@ Es war unwiderstehlich!
 Wir gehen zurück auf unsere Plätze und das letzte Drittel startet.
 
 ![Foto: Ricky Kam](pommes.jpg "Ein kleiner Pausen-Snack vor dem letzten Drittel")
-
-
 
 Die Langnauer halten sich gut, jedoch gibt ihnen Biel keine Chance zum Punkten. Schlussendlich bekommt Langnau in der 45 Minute noch das sechste Tor und die Chance auf einen Sieg der Langnauer sinkt immer wie tiefer. Es bräuchte ein Wunder, dass sie in den übrigen 15 Minuten noch fünf weitere Tore schiessen und das Spiel in die Verlängerung zwingen.
 
@@ -73,11 +65,7 @@ Die Spieler des Bieler Teams freuen sich über den Sieg. Sie versammeln sich in 
 Doch wie sieht es in der Schiedsrichtergarderobe aus?
 Während die Langnauer-Fans ihre Plätze enttäuscht die Arena verlassen, begeben Ricky und ich uns gespannt zur Schiedsrichtergarderobe, um einen Einblick zu bekommen.
 
-
-
 ### Nach dem Spiel ist vor dem Spiel
-
-
 
 Nach einer intensiven Partie können sich die Schiedsrichter noch nicht entspannen. Vorerst gibt es noch einiges zu besprechen und zu klären. Von jedem National League Spiel werden Aufnahmen gemacht, auf die die Schiedsrichter Zugriff haben. Dieses Videomaterial schauen sie nach Spielende in der Garderobe an, um potenzielle Strafen nachzuschauen und sie auszuwerten. Falls die Schiedsrichter unglücklicherweise eine Strafe übersehen haben, die zu einer Spielsperre führen könnte, müssen sie diese melden. Doch dies geschieht selten, denn wie Hürlimann uns berichtet, pfeift er lieber einmal eine Strafe zu viel als einmal zu wenig.
 
@@ -86,8 +74,6 @@ Nach einer intensiven Partie können sich die Schiedsrichter noch nicht entspann
 > *\- Stefan Hürlimann*
 
 Hier und da sind Coaches von Schiedsrichtern an den Spielen anwesend und beobachten die Schiedsrichter während des Spiels. Nach Schlusspfiff erhalten die Schiedsrichter von den Schiedsrichter Coaches in der Kabine ein Feedback, einige allgemeine Anmerkungen zum Spiel. Letzten Endes sind auch Schiedsrichter nicht perfekt.
-
-{{<box>}}
 
 {{<box title="Schiedsrichter">}}
 
@@ -100,8 +86,6 @@ Haben die Schiedsrichter das Spiel besprochen und das Matchblatt überprüft, wi
 
 ![Foto: Ricky Kam](schiris-in-der-garderobe.png.jpg "Schiedsrichter abseits des Eis (zweiter von rechts: Stefan Hürlimann)")
 
-
-
 ### Anforderungen eines Schiedsrichters
 
 Wie soll man nun das Hobby von Stefan Hürlimann am besten beschreiben? Schiedsrichter? Spielleiter? Entscheidungstreffer? Laut Hürlimann ist die beste Beschreibung: «Ein Zuschauer mit dem besten Platz im Stadion». Ihm bereitet es jeweils unglaublich Freude, die Spieler bei ihrer Leidenschaft zu unterstützen und mit ihnen zusammenzuarbeiten. Für Hürlimann gibt es nichts Besseres als schöne Backhandpässe, grossartige Checks und hervorragende Tore zu erleben.
@@ -113,8 +97,6 @@ Wie soll man nun das Hobby von Stefan Hürlimann am besten beschreiben? Schiedsr
 Stefan Hürlimann ist ein Schiedsrichter in der National League Schweiz. Vor seiner Schiedsrichterkarriere war der Schwyzer für 13 Jahre lang ein Profispieler in der National League. Im Dezember 2020 machte der 47-Jährige sein Debut in der National League als Schiedsrichter. Als Ex-Profispieler hatte Stefan Hürlimann grosse Vorteile auf dem Weg zum professionellen Schiedsrichter. Sowohl schlittschuhläuferisch wie auch in Sachen Spielverständnis hatte der langjährige Profi einen Vorsprung. Heute zählt er zu den besten Schiedsrichtern im Schweizer Eishockey.
 
 {{</box>}}
-
-
 
 > *«Ich habe mir mit meinen langen Jahren als Profi-Eishockeyspieler und auch als Schiedsrichter die Gleichgültigkeit antrainiert.»*
 >
