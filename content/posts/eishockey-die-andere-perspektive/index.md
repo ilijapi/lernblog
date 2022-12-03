@@ -3,6 +3,7 @@ title = "Eishockey- die andere Perspektive"
 date = "2022-12-02"
 draft = false
 pinned = false
+tags = ["Eishockey", "Schiedsrichter"]
 +++
 ## {{<lead>}}
 
