@@ -90,8 +90,6 @@ Haben die Schiedsrichter das Spiel besprochen und das Matchblatt überprüft, wi
 
 Wie soll man nun das Hobby von Stefan Hürlimann am besten beschreiben? Schiedsrichter? Spielleiter? Entscheidungstreffer? Laut Hürlimann ist die beste Beschreibung: «Ein Zuschauer mit dem besten Platz im Stadion». Ihm bereitet es jeweils unglaublich Freude, die Spieler bei ihrer Leidenschaft zu unterstützen und mit ihnen zusammenzuarbeiten. Für Hürlimann gibt es nichts Besseres als schöne Backhandpässe, grossartige Checks und hervorragende Tore zu erleben.
 
-{{<box>}}
-
 {{<box title="Stefan Hürlimann">}}
 
 Stefan Hürlimann ist ein Schiedsrichter in der National League Schweiz. Vor seiner Schiedsrichterkarriere war der Schwyzer für 13 Jahre lang ein Profispieler in der National League. Im Dezember 2020 machte der 47-Jährige sein Debut in der National League als Schiedsrichter. Als Ex-Profispieler hatte Stefan Hürlimann grosse Vorteile auf dem Weg zum professionellen Schiedsrichter. Sowohl schlittschuhläuferisch wie auch in Sachen Spielverständnis hatte der langjährige Profi einen Vorsprung. Heute zählt er zu den besten Schiedsrichtern im Schweizer Eishockey.
