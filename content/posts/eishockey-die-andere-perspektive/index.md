@@ -75,7 +75,7 @@ Nach einer intensiven Partie können sich die Schiedsrichter noch nicht entspann
 
 Hier und da sind Coaches von Schiedsrichtern an den Spielen anwesend und beobachten die Schiedsrichter während des Spiels. Nach Schlusspfiff erhalten die Schiedsrichter von den Schiedsrichter Coaches in der Kabine ein Feedback, einige allgemeine Anmerkungen zum Spiel. Letzten Endes sind auch Schiedsrichter nicht perfekt.
 
-{{<box title="Schiedsrichter">}}
+{{<box title="Schiedsrichter oder Spielleiter?">}}
 
 Stefan Hürlimann wird als ‘Schiedsrichter’ bezeichnet. Doch ist das der passendste Begriff für das Hobby von Hürlimann? Schiedsrichter sei umgänglicher und die meisten verstehen diesen Begriff, weshalb er auch so oft verwendet wird.
 Doch der heutige Match sei der beste Beweis, dass sie eher Spielleiter sind als ‘Schiedsrichter’. Kein einziges Mal hat heute ein Spieler auf der Strafbank gesessen. Wie Hürlimann sagt, könne man mit Kommunikation heikle Situation vermeiden und sogar den ganzen Fluss des Spiels beeinflussen
