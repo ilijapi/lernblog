@@ -1,13 +1,13 @@
 +++
-title = "About me"
+title = "About us"
 draft = false
+image = "ricky-ilija.jpg"
 description = ""
-image = ""
 +++
-![](/img/default-author.jpg)
+![](ricky-ilija.jpg)
 
-## My Name
+## Ricky & Ilija
 
-mail@example.org
+youwish@wish.com
 
-Here should be some info about me...
+Students of Gymnasium Kirchenfeld
