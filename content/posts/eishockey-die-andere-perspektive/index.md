@@ -14,8 +14,6 @@ Zuschauen oder mitspielen? So sehen die Schiedsrichter das Spiel auf dem Eis.
 
 
 
-
-
 Es gibt immer Spieler und Fans, die mit einem Entscheid nicht zufrieden sind. Manche behaupten, es sei ein Foul, andere beklagen sich über den Pfiff. Schuldig dafür sind immer die Schiedsrichter. Doch wie gehen diese damit um? Wir begleiten den National League Head-Schiedsrichter Stefan Hürlimann bei einem Match und erfahren mehr über die Herausforderungen, die diese Position mit sich bringt.
 
 ### Die Ruhe vor dem Sturm
