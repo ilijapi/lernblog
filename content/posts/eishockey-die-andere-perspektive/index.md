@@ -12,8 +12,6 @@ Zuschauen oder mitspielen? So sehen die Schiedsrichter das Spiel auf dem Eis.
 
 {{</lead>}}
 
-
-
 Es gibt immer Spieler und Fans, die mit einem Entscheid nicht zufrieden sind. Manche behaupten, es sei ein Foul, andere beklagen sich über den Pfiff. Schuldig dafür sind immer die Schiedsrichter. Doch wie gehen diese damit um? Wir begleiten den National League Head-Schiedsrichter Stefan Hürlimann bei einem Match und erfahren mehr über die Herausforderungen, die diese Position mit sich bringt.
 
 ### Die Ruhe vor dem Sturm
@@ -67,7 +65,7 @@ Der Jumbotron, ein grosser Bildschirm über dem Eisfeld, zeigt die sechzigste Mi
 Die Spieler des Bieler Teams freuen sich über den Sieg. Sie versammeln sich in ihrer Fankurve und umarmen sich, während die Tigers von Enttäuschung kaum ihre Köpfe aufrechthalten können.
 
 Doch wie sieht es in der Schiedsrichtergarderobe aus?
-Während die Langnauer-Fans ihre Plätze enttäuscht die Arena verlassen, begeben Ricky und ich uns gespannt zur Schiedsrichtergarderobe, um einen Einblick zu bekommen.
+Während die Langnauer-Fans ihre Plätze enttäuscht die Arena verlassen, begeben wir (Ricky & Ilija) uns gespannt zur Schiedsrichtergarderobe, um einen Einblick zu bekommen.
 
 ### Nach dem Spiel ist vor dem Spiel
 
@@ -75,7 +73,7 @@ Nach einer intensiven Partie können sich die Schiedsrichter noch nicht entspann
 
 > *«Ich habe mir mit meinen langen Jahren als Profi-Eishockeyspieler und auch als Schiedsrichter die Gleichgültigkeit antrainiert.»*
 >
-> *\- Stefan Hürlimann*
+> *Stefan Hürlimann*
 
 Hier und da sind Coaches von Schiedsrichtern an den Spielen anwesend und beobachten die Schiedsrichter während des Spiels. Nach Schlusspfiff erhalten die Schiedsrichter von den Schiedsrichter Coaches in der Kabine ein Feedback, einige allgemeine Anmerkungen zum Spiel. Letzten Endes sind auch Schiedsrichter nicht perfekt.
 
@@ -102,7 +100,7 @@ Stefan Hürlimann ist ein Schiedsrichter in der National League Schweiz. Vor sei
 
 > *«Ich habe mir mit meinen langen Jahren als Profi-Eishockeyspieler und auch als Schiedsrichter die Gleichgültigkeit antrainiert.»*
 >
-> *\- Stefan Hürlimann*
+> *Stefan Hürlimann*
 
 Schiedsrichter zu sein, ist nicht immer einfach. Besonders dann, wenn man schwierige Entscheidungen treffen muss. Die Zuschauer, die die Schiedsrichter auspfeifen, und das Reklamieren der Spieler, belasten Hürlimann kaum. Er, als ehemaliger National League Spieler, kann gut mit solchem Druck umgehen. Personen ohne diese Erfahrung können solch einen Druck kaum aushalten.
 «Ich habe mir die Gleichgültigkeit mit meinen langen Jahren als Profi-Spieler und Schiedsrichter antrainiert», antwortet Hürlimann zu unserer Frage, wie er mit dem Druck umgehe.
@@ -113,5 +111,5 @@ Er sagt uns auch, dass es nichts bringe, in der Vergangenheit zu leben, denn der
 
 Ein Schiedsrichter zu sein ist nicht einfach. Die Anforderungen sind den meisten Leuten nicht bewusst und der Druck und Stress hinter dieser Position wird unterschätzt. Als Ex-Profi hat Stefan Hürlimann einen enormen Vorteil gegenüber anderen Schiedsrichtern, da er beide Perspektiven des Eisfeldes erlebt hat. Doch eins ist klar: wenn die Fans die Schiedsrichter anschreien und verfluchen, verlieren sie ihre Stimme umsonst. Denn für die Schiedsrichter ist das Publikum stumm.
 
-Nun heisst es auch für Ricky und mich Feierabend. Beim Verlassen der Arena, können wir unseren Augen kaum glauben. Wo vor zwei Stunden eine riesige Menschenmenge stand und wo wir uns kaum durchschlängeln konnten, sind nur noch ein paar Menschen zu sehen.
+Nun heisst es auch für uns (Ilija & Ricky) Feierabend. Beim Verlassen der Arena, können wir unseren Augen kaum glauben. Wo vor zwei Stunden eine riesige Menschenmenge stand und wo wir uns kaum durchschlängeln konnten, sind nur noch ein paar Menschen zu sehen.
 Nun heisst es für uns: Nachhause gehen, über unsere Notizen schauen und schlafen gehen. Jedoch haben wir im Gegensatz zu Hürlimann keinen weiteren Match am nächsten Tag, sondern den ersten Ferientag.
